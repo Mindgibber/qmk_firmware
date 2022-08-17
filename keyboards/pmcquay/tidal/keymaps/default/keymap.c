@@ -15,3 +15,7 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
 
     return false;
 }
+
+void keyboard_post_init_user(void) {
+    pointing_device_set_cpi(500);
+}

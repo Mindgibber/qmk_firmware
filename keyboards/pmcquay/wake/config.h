@@ -14,7 +14,7 @@
 #define DESCRIPTION A handwired split keyboard inspired by Victor Lucachis void ergo.
 
 /* key matrix size */
-#define MATRIX_ROWS 5
+#define MATRIX_ROWS 10
 #define MATRIX_COLS 14
 
 /* COL2ROW, ROW2COL*/

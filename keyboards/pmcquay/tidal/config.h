@@ -30,8 +30,8 @@
 #define PMW3360_CS_PIN B6 //10
 #define POINTING_DEVICE_ROTATION_180
 
-#define ENCODERS_PAD_B { D7 } //6
-#define ENCODERS_PAD_A { E6 } //7
+#define ENCODERS_PAD_A { D7 } //6
+#define ENCODERS_PAD_B { E6 } //7
 #define ENCODER_RESOLUTION 2
 
 #define RGB_DI_PIN F4 //A3
