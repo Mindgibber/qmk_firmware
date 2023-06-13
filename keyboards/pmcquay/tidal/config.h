@@ -41,6 +41,8 @@
 
 #define USB_POLLING_INTERVAL_MS 1
 
+#define DEBOUNCE 25 // big debounce time because were using eager, and I dont think someone can click 40 times a second.
+
 // Arduino	AVR
 // TX0	    D3
 // RX1	    D2
